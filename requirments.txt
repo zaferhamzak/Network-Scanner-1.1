@@ -1,0 +1,6 @@
+syncio
+subprocess
+os
+ipaddress
+platform
+scapy
